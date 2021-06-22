@@ -12,6 +12,8 @@ namespace communication_log
 
             Console.WriteLine("Copy loud and clear. Go ahead.");
 
+            Console.WriteLine("Let's hope this works");
+
         }
     }
 }
