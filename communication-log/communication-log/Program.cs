@@ -6,11 +6,8 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter name: ");
-            string input = Console.ReadLine();
-            Console.WriteLine($"Hello {input}");
+            Console.WriteLine("Hello Pilot");
 
-            
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\clone-studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
       "projectName": "communication-log",
-      "projectPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
+      "projectPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\clone-studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
       "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\communication-log\\communication-log\\communication-log\\obj\\",
+      "outputPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\clone-studio\\communication-log\\communication-log\\communication-log\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
