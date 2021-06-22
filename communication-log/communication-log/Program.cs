@@ -14,6 +14,8 @@ namespace communication_log
 
             Console.WriteLine("Let's hope this works");
 
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+
         }
     }
 }
