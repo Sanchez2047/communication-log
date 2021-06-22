@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/cartermckaughan/.nuget/packages/": {}
+    "C:\\Users\\sanch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cartermckaughan/Git-Exercises/communication-log/communication-log/communication-log/communication-log/communication-log.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\final-studio\\communication-log\\communication-log\\communication-log.csproj",
       "projectName": "communication-log",
-      "projectPath": "/Users/cartermckaughan/Git-Exercises/communication-log/communication-log/communication-log/communication-log/communication-log.csproj",
-      "packagesPath": "/Users/cartermckaughan/.nuget/packages/",
-      "outputPath": "/Users/cartermckaughan/Git-Exercises/communication-log/communication-log/communication-log/communication-log/obj/",
+      "projectPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\final-studio\\communication-log\\communication-log\\communication-log.csproj",
+      "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanch\\Desktop\\launchcode\\chapter15-studio\\final-studio\\communication-log\\communication-log\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/cartermckaughan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
