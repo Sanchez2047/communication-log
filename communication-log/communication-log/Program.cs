@@ -14,6 +14,10 @@ namespace communication_log
 
             Console.WriteLine("Let's hope this works");
 
+            Console.BackgroundColor = ConsoleColor.Gray;
+
+            Console.WriteLine("Why didn't the chicken cross the rode?");
+
         }
     }
 }
